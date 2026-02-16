@@ -1,12 +1,6 @@
-fastapi
-uvicorn[standard]
-python-dotenv
+flask
 livekit
-livekit-api
-openai
+livekit-agents
+groq
 elevenlabs
-sqlalchemy
-requests
-python-multipart
-websockets
-asyncio
+python-dotenv
