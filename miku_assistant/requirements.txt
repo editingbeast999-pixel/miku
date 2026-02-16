@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+livekit
+livekit-api
+openai
+elevenlabs
+sqlalchemy
+requests
+python-multipart
+websockets
+asyncio

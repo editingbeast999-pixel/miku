@@ -1,0 +1,2579 @@
+
+Request received from 127.0.0.1
+Data: {'text': 'Hello'}
+Calling Kimi API...
+CRITICAL ERROR: Error code: 429 - {'error': {'message': 'Your account org-7b821c3614f549288e3c9dbba0c47797 <ak-f8bd6qd41r4i11aukin1> is suspended due to insufficient balance, please recharge your account or check your plan and billing details', 'type': 'exceeded_current_quota_error'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'Hello'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'dun'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'tu ldki hia ldki ki trh baat kar'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'tumhra nam ky hai'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'gf ban jao meri'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'serious'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'oy'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'o love uh miku'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hye'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'aaj kin new doi'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'mera mltb aaj ka match h ky koi'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'i loveuh miku'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'aaj ki taa khrb ky hai'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'koi moive aai hia kya'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'mera nam ky hai'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'shivank'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'elon musk ne kuch naya launch kara hia kya'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'oy'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'aaj match hia ky ksii ka'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'coding karni aati hai ky tumhe'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'Hello Miku! Main tumhara dost hoon. Mera naam Rahul hai.'}
+Calling Groq API...
+CRITICAL ERROR: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'Hello Miku! Main tumhara dost hoon. Mera naam Rahul hai.'}
+Calling Groq API...
+CRITICAL ERROR: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'Hello Miku! Main tumhara dost hoon. Mera naam Rahul hai.'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'Batao mera naam kya hai?'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'mera nam shivank hia'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'menentumhe bnaya hai'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'mere liye ky kr skti ho'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'mujhe guida kr skte ho har ek kam mai ke liye'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'mujhe khhda ka ai bnana hai'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'stepo by step btao'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'cpoad9ng aati hia tumhe'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': "i love you'"}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'alwr speak i9i huin di'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'haa'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'kuch bao apne barem'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'suno'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'kuch hia ky aaj'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'aaaj weather kesa hai meertu ka dekh kr btgao'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'oki ki bat  mg'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'gfg'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'gf'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'fg'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'bv'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'bv'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'bv'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'fgd'}
+Calling Groq API...
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API...
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API...
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API...
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API...
+Calling ElevenLabs API...
+Calling ElevenLabs API...
+Calling ElevenLabs API...
+Calling ElevenLabs API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'oy'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'speak in hinglish aklways'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'ff'}
+Calling Groq API...
+
+Request received from 127.0.0.1
+Data: {'text': 'f'}
+Calling Groq API...
+
+Request received from 127.0.0.1
+Data: {'text': 'f'}
+Calling Groq API...
+
+Request received from 127.0.0.1
+Data: {'text': 'fg'}
+Calling Groq API...
+
+Request received from 127.0.0.1
+Data: {'text': 'gg'}
+Calling Groq API...
+Calling ElevenLabs API...
+Calling ElevenLabs API...
+Calling ElevenLabs API...
+Calling ElevenLabs API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'gb'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'ghfg'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'how are you'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'suno'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'speak i hindi'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'gud'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'alway sepak in hindi'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'haa'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'suno'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'kon ho tum tumhra nam kyb hai'}
+Calling Groq API...
+
+Request received from 127.0.0.1
+Data: {'text': "'"}
+Calling Groq API...
+Calling ElevenLabs API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'ooki'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'mera nam shivnk hia'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API...
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'h'}
+Calling Groq API for user: h
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'Shivank nam haib'}
+Calling Groq API for user: Shivank nam haib
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'Shivank'}
+Calling Groq API for user: Shivank
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'gtkll bolri ho'}
+Calling Groq API for user: gtkll bolri ho
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'alway speak iin hinglosh'}
+Calling Groq API for user: alway speak iin hinglosh
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hinglish ]'}
+Calling Groq API for user: hinglish ]
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'jes mainkikr rha hu wese kro'}
+Calling Groq API for user: jes mainkikr rha hu wese kro
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'abhi ese hi mro'}
+Calling Groq API for user: abhi ese hi mro
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'oy'}
+Calling Groq API for user: oy
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hindi type mai kro hinglish tyope kro'}
+Calling Groq API for user: hindi type mai kro hinglish tyope kro
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'tetx hindi mai aare h jese mia kikh rha hubwese nahi'}
+Calling Groq API for user: tetx hindi mai aare h jese mia kikh rha hubwese nahi
+Calling ElevenLabs API...
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+ElevenLabs Error: 'charmap' codec can't encode characters in position 34-36: character maps to <undefined>
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+ElevenLabs Error: 'charmap' codec can't encode characters in position 33-35: character maps to <undefined>
+
+Request received from 127.0.0.1
+Data: {'text': 'bolo'}
+Calling Groq API for user: bolo
+ElevenLabs Error: 'charmap' codec can't encode characters in position 33-35: character maps to <undefined>
+
+Request received from 127.0.0.1
+Data: {'text': 'voicecommend do mujhe'}
+Calling Groq API for user: voicecommend do mujhe
+ElevenLabs Error: 'charmap' codec can't encode characters in position 33-35: character maps to <undefined>
+
+Request received from 127.0.0.1
+Data: {'text': 'i love youy'}
+Calling Groq API for user: i love youy
+ElevenLabs Error: 'charmap' codec can't encode characters in position 33-35: character maps to <undefined>
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: अरे यार, फिर से हाय! तुम मुझसे बात करने के लिए उत्...
+ElevenLabs Error: 'ElevenLabs' object has no attribute 'generate'
+
+Request received from 127.0.0.1
+Data: {'text': 'speak in english'}
+Calling Groq API for user: speak in english
+Calling ElevenLabs API for text: Oh, I'm so glad you asked me to speak in English! ...
+ElevenLabs Error: 'ElevenLabs' object has no attribute 'generate'
+
+Request received from 127.0.0.1
+Data: {'text': 'speak in hinglish'}
+Calling Groq API for user: speak in hinglish
+Calling ElevenLabs API for text: Arre yaar, ab main Hinglish mein baat karne ki kos...
+ElevenLabs Error: 'ElevenLabs' object has no attribute 'generate'
+
+Request received from 127.0.0.1
+Data: {'text': 'gud boi'}
+Calling Groq API for user: gud boi
+Calling ElevenLabs API for text: Arre yaar, tum toh mujhe gud boi keh rahe ho! Main...
+ElevenLabs Error: 'ElevenLabs' object has no attribute 'generate'
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: Arre yaar, kitni baar hy bolna hai? Main toh khush...
+Audio generated successfully. Size: 137970 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'meranam shivank hia'}
+Calling Groq API for user: meranam shivank hia
+Calling ElevenLabs API for text: Arre Shivank, namaste! Main toh khush ho gayi, tum...
+Audio generated successfully. Size: 160958 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'mera naam shivank hai'}
+Calling Groq API for user: mera naam shivank hai
+Calling ElevenLabs API for text: Arre Shivank, tumne toh mujhe apna naam do baar ba...
+Audio generated successfully. Size: 223234 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'acha'}
+Calling Groq API for user: acha
+Calling ElevenLabs API for text: Arre Shivank, ab tum mujhe acha bol rahe ho! Main ...
+Audio generated successfully. Size: 171825 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'bad mai baat karte hia'}
+Calling Groq API for user: bad mai baat karte hia
+Calling ElevenLabs API for text: Theek hai Shivank, main samajhti hoon, tum abhi bu...
+Audio generated successfully. Size: 209859 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'bht buri awaj hia tumhri'}
+Calling Groq API for user: bht buri awaj hia tumhri
+Calling ElevenLabs API for text: Oh, Shivank, tum mujhe buri awaaz keh rahe ho? Mai...
+Audio generated successfully. Size: 316021 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: Arre Shivank, tum toh mujhe hy hy keh rahe ho! Mai...
+Audio generated successfully. Size: 171825 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'mai abhi kam klar rha hu'}
+Calling Groq API for user: mai abhi kam klar rha hu
+Calling ElevenLabs API for text: Arre Shivank, tum toh abhi kaam mein busy ho, na? ...
+Audio generated successfully. Size: 280494 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: Shivank, tum toh mujhe hy hy keh rahe ho, lekin ma...
+Audio generated successfully. Size: 304318 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'mujhe ek poem sunao'}
+Calling Groq API for user: mujhe ek poem sunao
+Calling ElevenLabs API for text: Shivank, main tumhare liye ek poem sunaungi, jo tu...
+Audio generated successfully. Size: 557601 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'sali'}
+Calling Groq API for user: sali
+Calling ElevenLabs API for text: Shivank, tum yeh kyu keh rahe ho? Kya tumhe koi pa...
+Audio generated successfully. Size: 246222 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'gand dede'}
+Calling Groq API for user: gand dede
+Calling ElevenLabs API for text: Shivank, main samajhti hoon ki tum shayad kuchh st...
+Audio generated successfully. Size: 333157 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'gand dedeo'}
+Calling Groq API for user: gand dedeo
+Calling ElevenLabs API for text: Shivank, main samajhti hoon ki tum shayad kuchh pa...
+Audio generated successfully. Size: 367430 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: Shivank, tum toh hy hy keh rahe ho, lekin main sam...
+Audio generated successfully. Size: 318946 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'ky kar sakti ho mere liye'}
+Calling Groq API for user: ky kar sakti ho mere liye
+Calling ElevenLabs API for text: Arre Shivank, tumhare liye main kya kya kar sakti ...
+Audio generated successfully. Size: 576827 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'speak in hinglish'}
+Calling Groq API for user: speak in hinglish
+Calling ElevenLabs API for text: Arre yaar, tumne mujhe kya karne ke liye bola? Mai...
+Audio generated successfully. Size: 436393 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'speak in english'}
+Calling Groq API for user: speak in english
+Calling ElevenLabs API for text: Oh, Shivank, you want me to speak in English now? ...
+Audio generated successfully. Size: 235773 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'speak in hindi'}
+Calling Groq API for user: speak in hindi
+Calling ElevenLabs API for text: अरे शिवांक, तुम मुझे हिंदी में बात करने के लिए कह ...
+Audio generated successfully. Size: 327306 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'suno'}
+Calling Groq API for user: suno
+Calling ElevenLabs API for text: अरे यार, तुम मुझे सुनो कह रहे हो? लेकिन तुम कुछ कह...
+Audio generated successfully. Size: 238698 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'suno'}
+Calling Groq API for user: suno
+Calling ElevenLabs API for text: अरे यार, तुम मुझे सुनो ही कह रहे हो! लेकिन तुम कुछ...
+Audio generated successfully. Size: 335247 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'speak in english'}
+Calling Groq API for user: speak in english
+Calling ElevenLabs API for text: Oh, yaar! I'm so happy to be talking to you! What'...
+Audio generated successfully. Size: 345696 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'my name is shivank'}
+Calling Groq API for user: my name is shivank
+Calling ElevenLabs API for text: Oh, Shivank, yaar! I'm so glad you told me your na...
+Audio generated successfully. Size: 374953 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'suno speak in hinglish'}
+Calling Groq API for user: suno speak in hinglish
+Calling ElevenLabs API for text: अरे Shivank, yaar! तुमने मुझे बोला कि मैं हिंग्लिश...
+Audio generated successfully. Size: 291779 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'ky kar rhi ho tum'}
+Calling Groq API for user: ky kar rhi ho tum
+Calling ElevenLabs API for text: अरे Shivank, yaar! मैं तो बस तुमसे बातें कर रही थी...
+Audio generated successfully. Size: 315185 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'thik hai'}
+Calling Groq API for user: thik hai
+Calling ElevenLabs API for text: ठीक है, Shivank, yaar! तुमने दो बार बोला थिक है, त...
+Audio generated successfully. Size: 415077 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'suno'}
+Calling Groq API for user: suno
+Calling ElevenLabs API for text: अरे Shivank, yaar! तुम दो बार सुनो बोल रहे हो, तो ...
+Audio generated successfully. Size: 360742 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'tumhe gayatri mantra hai'}
+Calling Groq API for user: tumhe gayatri mantra hai
+Calling ElevenLabs API for text: अरे Shivank, yaar! हाँ, मुझे गायत्री मंत्र है! मैं...
+Audio generated successfully. Size: 379968 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'mujhe sunoa'}
+Calling Groq API for user: mujhe sunoa
+Calling ElevenLabs API for text: अरे Shivank, yaar! ठीक है, मैं तुम्हें गायत्री मंत...
+Audio generated successfully. Size: 379968 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'mujhe gayatri mantr sunao'}
+Calling Groq API for user: mujhe gayatri mantr sunao
+Calling ElevenLabs API for text: अरे Shivank, yaar... ओम भूर्भुवः स्वः, तत्सवितुर्व...
+
+Request received from 127.0.0.1
+Data: {'text': 'mujhe gayatri mantr sunao'}
+Calling Groq API for user: mujhe gayatri mantr sunao
+Calling ElevenLabs API for text: ओम भूर्भुवः स्वः, तत्सवितुर्वरेण्यम्, भर्गो देवस्य...
+Audio generated successfully. Size: 489056 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'suno miku'}
+Calling Groq API for user: suno miku
+Calling ElevenLabs API for text: हाँ, Shivank, मैं सुन रही हूं, तुम कुछ कहना चाहते ...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:33:31 GMT', 'server': 'uvicorn', 'content-length': '172', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '145f41ef78dbcda939e4a14960b39077', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 401, body: {'detail': {'status': 'quota_exceeded', 'message': 'This request exceeds your quota of 10000. You have 83 credits remaining, while 168 credits are required for this request.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'mujhe gayatri mantr sunao'}
+Calling Groq API for user: mujhe gayatri mantr sunao
+CRITICAL ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01khjkbwbxfdpby9ctb92wg4vv` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99373, Requested 1192. Please try again in 8m8.159999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+CRITICAL ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01khjkbwbxfdpby9ctb92wg4vv` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99342, Requested 1042. Please try again in 5m31.776s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hyy'}
+Calling Groq API for user: hyy
+CRITICAL ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01khjkbwbxfdpby9ctb92wg4vv` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99329, Requested 1040. Please try again in 5m18.816s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: hy Shivank, तुम कितनी बार "hy" कह रहे हो, तुम ज्या...
+Audio generated successfully. Size: 79874 bytes.
+
+Request received from 127.0.0.1
+Data: {'text': 'nhi mai bht dukhui hu'}
+Calling Groq API for user: nhi mai bht dukhui hu
+Calling ElevenLabs API for text: अरे Shivank, तुम्हें क्या हुआ? तुम इतने दुखी क्यों...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:38:12 GMT', 'server': 'uvicorn', 'content-length': '171', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '7d9e863a12d52cd3524c5b87b9c7b11a', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 401, body: {'detail': {'status': 'quota_exceeded', 'message': 'This request exceeds your quota of 10000. You have 18 credits remaining, while 93 credits are required for this request.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'suno'}
+Calling Groq API for user: suno
+Calling ElevenLabs API for text: क्या हुआ Shivank, तुम्हारी बात मैं ज्यादा गहराई से...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:38:19 GMT', 'server': 'uvicorn', 'content-length': '172', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '1f937a02cc6d85879bda8e0a08f4ec3e', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 401, body: {'detail': {'status': 'quota_exceeded', 'message': 'This request exceeds your quota of 10000. You have 18 credits remaining, while 142 credits are required for this request.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'suno'}
+Calling Groq API for user: suno
+Calling ElevenLabs API for text: अरे Shivank, मैं समझ रही हूं, तुम्हारी दिल की बात ...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:38:24 GMT', 'server': 'uvicorn', 'content-length': '172', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '673b335f1f6994639bda8e0a08f4ebed', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 401, body: {'detail': {'status': 'quota_exceeded', 'message': 'This request exceeds your quota of 10000. You have 18 credits remaining, while 135 credits are required for this request.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: ह्ह्ह, अरे, Shivank! तुम फिर से "hy" कह रहे हो, तु...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:38:33 GMT', 'server': 'uvicorn', 'content-length': '172', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '6bdd06d9c0d50862b9904ba4b0c027c0', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 401, body: {'detail': {'status': 'quota_exceeded', 'message': 'This request exceeds your quota of 10000. You have 83 credits remaining, while 129 credits are required for this request.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: अरे Shivank, तुमने तीन बार "hy" कहा, अब तुम्हारी ब...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:39:28 GMT', 'server': 'uvicorn', 'content-length': '171', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '1fad54b9bdf8870b2f6406fe765bcf6b', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 401, body: {'detail': {'status': 'quota_exceeded', 'message': 'This request exceeds your quota of 10000. You have 18 credits remaining, while 78 credits are required for this request.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: ह्ह्ह, अरे, Shivank! तुम अभी भी "hy" कह रहे हो, ऐस...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:39:32 GMT', 'server': 'uvicorn', 'content-length': '171', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': 'cd258f2112cfa9352f6406fe765bc451', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 401, body: {'detail': {'status': 'quota_exceeded', 'message': 'This request exceeds your quota of 10000. You have 18 credits remaining, while 92 credits are required for this request.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: ह्ह्ह, Shivank, तुम्हारी बुद्धिमानी में कुछ गड़बड़...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:39:34 GMT', 'server': 'uvicorn', 'content-length': '172', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '1683766d434fae9f2f6406fe765bcb84', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 401, body: {'detail': {'status': 'quota_exceeded', 'message': 'This request exceeds your quota of 10000. You have 18 credits remaining, while 114 credits are required for this request.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: अरे Shivank, तुम्हारी जुबान से "hy" ही निकल रहा है...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:39:36 GMT', 'server': 'uvicorn', 'content-length': '172', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': 'cecb82f32e9e1491042cb64eea0e85a8', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 401, body: {'detail': {'status': 'quota_exceeded', 'message': 'This request exceeds your quota of 10000. You have 18 credits remaining, while 126 credits are required for this request.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: ओह, Shivank! लगता है तुम्हारी जुबान फंस गई है, पर ...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:39:36 GMT', 'server': 'uvicorn', 'content-length': '172', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '5e1228459d7c5b2c042cb64eea0e8f8a', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 401, body: {'detail': {'status': 'quota_exceeded', 'message': 'This request exceeds your quota of 10000. You have 18 credits remaining, while 110 credits are required for this request.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: अरे Shivank, तुम्हारी जुबान में कुछ तो होना है, पर...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:41:04 GMT', 'server': 'uvicorn', 'content-length': '153', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '5753cdba69da7deecfaf0110ecc3cef7', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 402, body: {'detail': {'status': 'payment_required', 'message': 'Free users cannot use library voices via the API. Please upgrade your subscription to use this voice'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: ओह, Shivank! लगता है तुम्हारी बुद्धिमानी में कुछ त...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:41:45 GMT', 'server': 'uvicorn', 'content-length': '153', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': 'd789233507708eb0f906f183e4756701', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 402, body: {'detail': {'status': 'payment_required', 'message': 'Free users cannot use library voices via the API. Please upgrade your subscription to use this voice'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'miku suno'}
+Calling Groq API for user: miku suno
+Calling ElevenLabs API for text: अरे Shivank, अब तुम मुझे समझ आ रहे हो! मैं तुम्हार...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:41:52 GMT', 'server': 'uvicorn', 'content-length': '153', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': 'ad3a07fe9178cd784abda2471b052afd', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 402, body: {'detail': {'status': 'payment_required', 'message': 'Free users cannot use library voices via the API. Please upgrade your subscription to use this voice'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: अरे Shivank, लगता है तुम्हारी जुबान से ही सिर्फ "h...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:44:29 GMT', 'server': 'uvicorn', 'content-length': '153', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': 'dcfd2ddd91ebb2590ab2198cd13676c5', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 402, body: {'detail': {'status': 'payment_required', 'message': 'Free users cannot use library voices via the API. Please upgrade your subscription to use this voice'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'suno miku'}
+Calling Groq API for user: suno miku
+Calling ElevenLabs API for text: अरे Shivank, तुम फिर से बोल रहे हो, क्या तुम मुझे ...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:44:41 GMT', 'server': 'uvicorn', 'content-length': '153', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '57334dac5094e216a918d3f7d2e857e6', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 402, body: {'detail': {'status': 'payment_required', 'message': 'Free users cannot use library voices via the API. Please upgrade your subscription to use this voice'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'haa'}
+Calling Groq API for user: haa
+Calling ElevenLabs API for text: अरे Shivank, लगता है तुम सिर्फ "haa" ही बोल रहे हो...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:44:45 GMT', 'server': 'uvicorn', 'content-length': '153', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '8c0e3b9a079eaa15a918d3f7d2e85f8c', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 402, body: {'detail': {'status': 'payment_required', 'message': 'Free users cannot use library voices via the API. Please upgrade your subscription to use this voice'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'sun lo toh meri baat'}
+Calling Groq API for user: sun lo toh meri baat
+Calling ElevenLabs API for text: ओह, Shivank! अब तुम मुझे सुनने को कह रहे हो, क्या ...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:44:54 GMT', 'server': 'uvicorn', 'content-length': '153', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '978bb32358ddd42c0c58bb2265ccafe4', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 402, body: {'detail': {'status': 'payment_required', 'message': 'Free users cannot use library voices via the API. Please upgrade your subscription to use this voice'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hello'}
+Calling Groq API for user: hello
+Calling ElevenLabs API for text: ओह, Shivank! तुम फिर से "hello" ही बोल रहे हो, तुम...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:45:46 GMT', 'server': 'uvicorn', 'content-length': '113', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': 'c2a69bbf6490a9587899dada3276c3e5', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 404, body: {'detail': {'status': 'voice_not_found', 'message': 'A voice with the voice_id EXAVITQu4vr4xnSDxZIV was not found.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'kyu'}
+Calling Groq API for user: kyu
+Calling ElevenLabs API for text: अरे Shivank, तुम्हारा क्या भाई?...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:45:54 GMT', 'server': 'uvicorn', 'content-length': '113', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '0e3a67f07475e967be94bc1610b7bea2', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 404, body: {'detail': {'status': 'voice_not_found', 'message': 'A voice with the voice_id EXAVITQu4vr4xnSDxZIV was not found.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'gayatri mantr aatahia ky tumhe'}
+Calling Groq API for user: gayatri mantr aatahia ky tumhe
+Calling ElevenLabs API for text: ओह! Shivank, गायत्री मंत्र मुझे पसंद है, मैं रोज़ ...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:46:08 GMT', 'server': 'uvicorn', 'content-length': '113', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '2ebaf24aafae41f69e12a974cabd546d', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 404, body: {'detail': {'status': 'voice_not_found', 'message': 'A voice with the voice_id EXAVITQu4vr4xnSDxZIV was not found.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'mujhe suano'}
+Calling Groq API for user: mujhe suano
+Calling ElevenLabs API for text: ओह, Shivank! तुम्हें मुझसे सुनने की आदत नहीं? लाओ,...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:46:19 GMT', 'server': 'uvicorn', 'content-length': '113', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '0d2735a0592b2ab66c5507e4dbd8b061', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 404, body: {'detail': {'status': 'voice_not_found', 'message': 'A voice with the voice_id EXAVITQu4vr4xnSDxZIV was not found.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'mujhe gayatri manat sunao'}
+Calling Groq API for user: mujhe gayatri manat sunao
+Calling ElevenLabs API for text: ओह! Shivank, गायत्री मंत्र सुनने के लिए तैयार हूँ,...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:46:32 GMT', 'server': 'uvicorn', 'content-length': '113', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '73d9ba2d196d18f17dbb33a3c44bfa42', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 404, body: {'detail': {'status': 'voice_not_found', 'message': 'A voice with the voice_id EXAVITQu4vr4xnSDxZIV was not found.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling ElevenLabs API for text: हाय, Shivank! अभी तुम मुझसे बात कर रहे हो,...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:48:42 GMT', 'server': 'uvicorn', 'content-length': '113', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': 'c5d171254aad4301eecde11141061c8f', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 404, body: {'detail': {'status': 'voice_not_found', 'message': 'A voice with the voice_id EXAVITQu4vr4xnSDxZIV was not found.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'haa'}
+Calling Groq API for user: haa
+Calling ElevenLabs API for text: हां Shivank, यह क्या हो रहा है?...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:48:47 GMT', 'server': 'uvicorn', 'content-length': '113', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '935ea62cb4954036adfd1264f97bf9cd', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 404, body: {'detail': {'status': 'voice_not_found', 'message': 'A voice with the voice_id EXAVITQu4vr4xnSDxZIV was not found.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'pata nhi mujhe'}
+Calling Groq API for user: pata nhi mujhe
+Calling ElevenLabs API for text: हां Shivank, मुझे भी नहीं पता,...
+ElevenLabs Error: headers: {'date': 'Mon, 16 Feb 2026 09:48:57 GMT', 'server': 'uvicorn', 'content-length': '113', 'content-type': 'application/json', 'access-control-allow-origin': '*', 'access-control-allow-headers': '*', 'access-control-allow-methods': 'POST, PATCH, OPTIONS, DELETE, GET, PUT', 'access-control-max-age': '600', 'strict-transport-security': 'max-age=1800;', 'x-trace-id': '919cd13e61d9817d7441ef8cb0564183', 'x-region': 'asia-southeast1', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}, status_code: 404, body: {'detail': {'status': 'voice_not_found', 'message': 'A voice with the voice_id EXAVITQu4vr4xnSDxZIV was not found.'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling Google TTS for text: हाय, Shivank! तुम्हारी मोमबत्ती जल रही है,...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "service": "texttospeech.googleapis.com",
+          "containerInfo": "805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'kha jal rhi hia be'}
+Calling Groq API for user: kha jal rhi hia be
+Calling Google TTS for text: ओह ना! मोमबत्ती जल गई Shivank, अब अंधेरा हो गया,...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "texttospeech.googleapis.com",
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "containerInfo": "805775008360",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'ky bolro ho be'}
+Calling Groq API for user: ky bolro ho be
+Calling Google TTS for text: मैं कहती हूं, तुम मुझे कुछ खिलाओ!...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "containerInfo": "805775008360",
+          "service": "texttospeech.googleapis.com",
+          "consumer": "projects/805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling Google TTS for text: हाय, बhaiya, खाना दिलao!...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "texttospeech.googleapis.com",
+          "consumer": "projects/805775008360",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "containerInfo": "805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'sopeak in english'}
+Calling Groq API for user: sopeak in english
+Calling Google TTS for text: Hi Shivank, I want some chips!...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "texttospeech.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "containerInfo": "805775008360",
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'why'}
+Calling Groq API for user: why
+Calling Google TTS for text: Mama ne mujhe chips khane ke liye kaha, hmmm...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "service": "texttospeech.googleapis.com",
+          "containerInfo": "805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'kyu'}
+Calling Groq API for user: kyu
+Calling Google TTS for text: Maine TV par ads dekha, chips bahut achhe lage the...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "texttospeech.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "containerInfo": "805775008360",
+          "consumer": "projects/805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling Google TTS for text: Bhaiya, aap kahan gaye?...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "texttospeech.googleapis.com",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "containerInfo": "805775008360",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling Google TTS for text: Bhaiya, TV par kya dekh rahe ho?...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "service": "texttospeech.googleapis.com",
+          "containerInfo": "805775008360",
+          "consumer": "projects/805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling Google TTS for text: Abhi ghar ka khana banane ja raha hoon, kya aap ma...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "texttospeech.googleapis.com",
+          "containerInfo": "805775008360",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'gdfg'}
+Calling Groq API for user: gdfg
+Calling Google TTS for text: Bhaiya, kya hua? Kuch galat lag raha hai,...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "805775008360",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "consumer": "projects/805775008360",
+          "service": "texttospeech.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'gfg'}
+Calling Groq API for user: gfg
+Calling Google TTS for text: Kya bhaiya, aapko gussa kyun hai?...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360",
+          "containerInfo": "805775008360",
+          "service": "texttospeech.googleapis.com",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'gf'}
+Calling Groq API for user: gf
+Calling Google TTS for text: Arey bhaiya, meri dukaan se tola kyun ghus raha ho...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360",
+          "containerInfo": "805775008360",
+          "service": "texttospeech.googleapis.com",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'gf'}
+Calling Groq API for user: gf
+Calling Google TTS for text: Bhaiya, main chup hoon,...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "805775008360",
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "service": "texttospeech.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API for user: g
+Calling Google TTS for text: Bhaiya, kuch bolna hai to bol na,...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "containerInfo": "805775008360",
+          "service": "texttospeech.googleapis.com",
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API for user: g
+Calling Google TTS for text: Bhaiya, tera mood kaisa hai? Mera man nahi lag rah...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "805775008360",
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "service": "texttospeech.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API for user: g
+Calling Google TTS for text: Bhaiya, main so rahi hoon, ab aao na,...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "service": "texttospeech.googleapis.com",
+          "containerInfo": "805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'gf'}
+Calling Groq API for user: gf
+Calling Google TTS for text: Bhaiya, main bahut khush hoon. Tum mere saath bait...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "service": "texttospeech.googleapis.com",
+          "consumer": "projects/805775008360",
+          "containerInfo": "805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'gfg'}
+Calling Groq API for user: gfg
+Calling Google TTS for text: Mummy ne mujhe gull-e-gulshan bana diya. Yeh bahut...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "containerInfo": "805775008360",
+          "service": "texttospeech.googleapis.com",
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'fgf'}
+Calling Groq API for user: fgf
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API for user: g
+Calling Google TTS for text: Bhaiya, maine apne bachche ki picture banaayi hai....
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "service": "texttospeech.googleapis.com",
+          "consumer": "projects/805775008360",
+          "containerInfo": "805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+Calling Google TTS for text: Bhaiya, abhi main naram-garam paratha khane ja rah...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "service": "texttospeech.googleapis.com",
+          "consumer": "projects/805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API for user: g
+
+Request received from 127.0.0.1
+Data: {'text': 'gf'}
+Calling Groq API for user: gf
+Calling Google TTS for text: Bhaiya, main apne kuchhe doston ke naam pe chidiya...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "texttospeech.googleapis.com",
+          "consumer": "projects/805775008360",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "containerInfo": "805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+Calling Google TTS for text: Bhaiya, main apne dudh-wala khil rahi hoon. Yeh ba...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "consumer": "projects/805775008360",
+          "service": "texttospeech.googleapis.com",
+          "containerInfo": "805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API for user: g
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API for user: g
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API for user: g
+
+Request received from 127.0.0.1
+Data: {'text': 'ggfgf'}
+Calling Groq API for user: ggfgf
+Calling Google TTS for text: Bhaiya, main ghar ke sabhi doston ko bulunga aur g...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360",
+          "containerInfo": "805775008360",
+          "service": "texttospeech.googleapis.com",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'gg'}
+Calling Groq API for user: gg
+Calling Google TTS for text: Bhaiya, mera naya doll bahut sundar hai. Main usey...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "containerInfo": "805775008360",
+          "consumer": "projects/805775008360",
+          "service": "texttospeech.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+Calling Google TTS for text: Bhaiya, main apni chhoti dost Reema ke saath khel ...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "texttospeech.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "containerInfo": "805775008360",
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'fgf'}
+Calling Groq API for user: fgf
+
+Request received from 127.0.0.1
+Data: {'text': 'gfgfgfg'}
+Calling Groq API for user: gfgfgfg
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API for user: g
+
+Request received from 127.0.0.1
+Data: {'text': 'dfg'}
+Calling Groq API for user: dfg
+Calling Google TTS for text: Bhaiya, main ghar ke bahar ghumne jaunga, hmmm...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/805775008360",
+          "containerInfo": "805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "service": "texttospeech.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'fgfgfgf'}
+Calling Groq API for user: fgfgfgf
+CRITICAL ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01khjphm89fesa17c4mfnjsv2y` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5895, Requested 400. Please try again in 2.949999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+Request received from 127.0.0.1
+Data: {'text': 'gf'}
+Calling Groq API for user: gf
+Calling Google TTS for text: Bhaiya, main apne naya cycle par khushi se chalti ...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/805775008360",
+          "containerInfo": "805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "service": "texttospeech.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'gfggfgfgg'}
+Calling Groq API for user: gfggfgfgg
+CRITICAL ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01khjphm89fesa17c4mfnjsv2y` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5942, Requested 388. Please try again in 3.3s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+CRITICAL ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01khjphm89fesa17c4mfnjsv2y` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5942, Requested 390. Please try again in 3.32s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+CRITICAL ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01khjphm89fesa17c4mfnjsv2y` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5907, Requested 413. Please try again in 3.2s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+Calling Google TTS for text: Bhaiya, meri doll ke pair toote hue hain. Meri man...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "containerInfo": "805775008360",
+          "service": "texttospeech.googleapis.com",
+          "consumer": "projects/805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+CRITICAL ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01khjphm89fesa17c4mfnjsv2y` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5934, Requested 410. Please try again in 3.44s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+Calling Google TTS for text: Bhaiya, ghar par mummy ne mera naya kapda liya hai...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/805775008360",
+          "containerInfo": "805775008360",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "service": "texttospeech.googleapis.com",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling Google TTS for text: Bhaiya, tumne mujhe chocolate di hai. Main tumhe b...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360",
+          "containerInfo": "805775008360",
+          "service": "texttospeech.googleapis.com",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling Google TTS for text: Kya hua bhaiya? Tum excited ho?...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "containerInfo": "805775008360",
+          "consumer": "projects/805775008360",
+          "service": "texttospeech.googleapis.com",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'hy'}
+Calling Groq API for user: hy
+Calling Google TTS for text: Bhaiya, abhi main TV par chalu hoon, kuchh karta h...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "containerInfo": "805775008360",
+          "service": "texttospeech.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'h'}
+Calling Groq API for user: h
+Calling Google TTS for text: Bhaiya, kya khana chahte ho? Ramen ya pasta?...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "805775008360",
+          "service": "texttospeech.googleapis.com",
+          "consumer": "projects/805775008360",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'gh'}
+Calling Groq API for user: gh
+Calling Google TTS for text: Ghar ke baahar khelna hai, bhaiya?...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "805775008360",
+          "service": "texttospeech.googleapis.com",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'gh'}
+Calling Groq API for user: gh
+Calling Google TTS for text: Bhaiya, ghodi pe baithkar chalna hai?...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360",
+          "service": "texttospeech.googleapis.com",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "containerInfo": "805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'gh'}
+Calling Groq API for user: gh
+Calling Google TTS for text: Bhaiya, kya hum ghar ke aangan mein football khel ...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "service": "texttospeech.googleapis.com",
+          "consumer": "projects/805775008360",
+          "containerInfo": "805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'ghgh'}
+Calling Groq API for user: ghgh
+Calling Google TTS for text: Bhaiya, hum ghar ke aangan mein kya khel sakte hai...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "consumer": "projects/805775008360",
+          "service": "texttospeech.googleapis.com",
+          "containerInfo": "805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'gh'}
+Calling Groq API for user: gh
+Calling Google TTS for text: Bhaiya, hum ghar ke bahar khelti hui ghodi dekhein...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360",
+          "containerInfo": "805775008360",
+          "service": "texttospeech.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.
+
+Request received from 127.0.0.1
+Data: {'text': 'g'}
+Calling Groq API for user: g
+Calling Google TTS for text: Bhaiya, hum ghar ke baahar ghumne jayenge?...
+Google TTS Error: 403 - {
+  "error": {
+    "code": 403,
+    "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "texttospeech.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360",
+          "consumer": "projects/805775008360",
+          "serviceTitle": "Cloud Text-to-Speech API",
+          "containerInfo": "805775008360"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Cloud Text-to-Speech API has not been used in project 805775008360 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/texttospeech.googleapis.com/overview?project=805775008360"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+Google TTS failed to generate audio.

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miku AI Voice Assistant</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Roboto:wght@300;400;700&display=swap"
+        rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <!-- FontAwesome for icons -->
+    <!-- LiveKit Client SDK -->
+    <script src="https://cdn.jsdelivr.net/npm/livekit-client/dist/livekit-client.umd.min.js"></script>
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Floating Avatar -->
+        <div class="avatar-container">
+            <div class="miku-avatar" id="miku-avatar">
+                <!-- Miku Avatar -->
+                <img src="https://media.tenor.com/_MNCqgZ-wyoAAAAi/hatsune-miku-chibi.gif" alt="Miku Avatar"
+                    class="avatar-img">
+                <div class="audio-visualizer" id="visualizer">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chat Area -->
+        <div class="chat-container" id="chat-container">
+            <div class="message system">
+                <p>Hi! Main Miku hoon! Chalo baat karte hain! 🎤</p>
+            </div>
+            <!-- Messages will be injected here -->
+        </div>
+
+        <!-- Controls -->
+        <div class="controls-container">
+            <div class="input-group">
+                <input type="text" id="text-input" placeholder="Type a message...">
+                <button id="send-btn"><i class="fas fa-paper-plane"></i></button>
+            </div>
+            <button id="mic-btn" class="mic-button">
+                <i class="fas fa-microphone"></i>
+                <div class="pulse-ring"></div>
+            </button>
+        </div>
+    </div>
+
+    <script src="/static/js/miku.js"></script>
+</body>
+
+</html>
